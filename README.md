@@ -1,4 +1,4 @@
-# Prism's Algorithm Visualizer
+# Prim's Algorithm Visualizer
 Minimum spanning tree visualizer with Javascript
 
 -> <a href="http://htmlpreview.github.io/?https://github.com/joan3pastor/Prism-Algorithm/blob/master/index.html">Start playing!</a>
